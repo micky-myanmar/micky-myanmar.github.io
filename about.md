@@ -5,83 +5,39 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+![Accounting Services](/images/groupphoto.jpg)
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+မန္တလေးတမြို့လုံးအပြင့် ,မကွေးမြို့ကြီး,ပခုက္ကူမြို့ကြီး,စလင်း သမိုင်းဝင်မြို့, ဆင်ဖြူကျွန်း နှလုံးသားထဲကမြို့ တွေမှာမြို့ကြီးများတွင် ဖိုင်ဘာ (FTTH) ဖြင့် အင်တာနက်ဝန်ဆောင်မှုများ ပေးနေပါသည်။
 
-# Objectives
+# ကျွန်ုပ်တို့ ကွန်ယက်
 
-Financial accounting and financial reporting are often used as synonyms.
+Micky-Myanmar ကို   
+မန္တလေး၊   
+မကွေး၊   
+ပခုက္ကူ၊   
+စလင်းမြို့၊   
+ဆင်ဖြူကျွန်း နှလုံးသားထဲကမြို့   
+များတွင် အိမ်သုံး၊ စီးပွားရေးလုပ်ငန်းသုံး Fiber အင်တာနက်ကို တပ်ဆင် အသုံးပြုနိုင်ပြီဖြစ်ပါသည်။   
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# အနာဂါတ်ရည်မှန်းချက်
 
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+" ကျွန်းချောင်း ဓာမြေဩဇာ စက်ရုံဆိုတာ   
+ကျွန်တော့် မွေးရပ်မြေပါ-   
+ဒီပခုက္ကူတံတားကြီးမရှိခင်တည်းက   
+ပုဂံ-ကျွန်းချောင်း ကျွန်တော်တို့အခေါ် 'ဇတ်ဆိပ်'မှ   
+ဧရာအနောက်မြို့ကို မြေလတ်ဧရာ, ရေဆင်တို့နဲ့   
+ပို့ဆောင်ဆက်သွယ်ခဲ့ရတာပါ-   
+ကျွန်ချောင်းဒေသက ဧရာအနောက်အတွက်   
+သိသူများမှာပါ-   
+ခုတော့ Micky Fiber High Speed Internet လေးကို   
+စတင် ဝန်ဆောင်မှုပေးနိုင်တာလဲ အတိုင်းမသိ   
+ကျေနပ်မိတယ်-   
+ပြိုင်ဆိုင်မှုကို နှစ်သက်တယ်-   
+လေးစားစွာဖြင့် ပိုမိုကောင်းမွန်တဲ့   
+ဝန်ဆောင်မှုပေးနိုင်အောင် စီစဉ်ဆောင်ရွက်လျှက်ပါ-   
+လိုအပ်ချက်တွေကို လွတ်လပ်စွာ အကြံပေးဖို့   
+ဖိတ်ခေါ်ပါတယ်-   
+ကျွန်တော်တို့ ဖန်တီးထားတဲ့ Micky လေးကို   
+တခဲနက်အားပေးမှုအတွက် ကျေးဇူးပါ "   
+Co-Founder   
+Micky Family   
